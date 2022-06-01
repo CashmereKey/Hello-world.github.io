@@ -10,4 +10,4 @@ I'm not gonna explain every single thing about me
 just some simple points
 - Love learning new things
 - Pc games are the best
-- hopefuly future good programmer
+- hopefuly future good programmer (atleast trying to be one !!)

@@ -13,6 +13,7 @@
 Now coming onto the projects I've made:
 1. Line following Robot
 [![Circuit Diagram](https://i.ibb.co/ZBrwPdX/image.png)]
+![alt text](https://i.ibb.co/ZBrwPdX/image.png "Circuit Diagram")
 
 
 2. Color changing lamp using Arduino

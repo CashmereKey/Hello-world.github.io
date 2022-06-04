@@ -12,7 +12,7 @@
 ## Well that settles the Hobby's part
 Now coming onto the projects I've made:
 1. Line following Robot
-[![Circuit Diagram](https://ibb.co/HtyMs74)]
+[![Circuit Diagram](https://i.ibb.co/ZBrwPdX/image.png)]
 
 
 2. Color changing lamp using Arduino

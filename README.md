@@ -1,13 +1,24 @@
-# Hello-world.github.io
-## Tring github website for first time
+# CashmereKey.github.io
+### Hi, Welcome to my webpage
+##### I'm Dhruv, Here are some things About Me
 ---------------------
-### Gotta say not so bad **first experience**
-------------------
-[Great page for learning markdown](https://www.abhaytalreja.me/markdown-crash-course-learn-markdown-in-30-minutes-markdown-cheatsheet/)
+- Ok Let's Start with my Hobbies
+1. Rubik's Cube
+2. Gaming
+3. Origami
+4. Cooking
+5. And lastly Designing
 
-## Ok let's first start with who am I
-I'm not gonna explain every single thing about me 
-just some simple points
-- Love learning new things
-- Pc games are the best
-- hopefuly future good programmer (atleast trying to be one !!)
+## Well that settles the Hobby's part
+Now coming onto the projects I've made:
+1. Line following Robot
+![alt text](https://ibb.co/HtyMs74 "Circuit Diagram")
+
+
+2. Color changing lamp using Arduino
+It Was a pretty good project which worked using the principle of Scattering of light
+It used Arduino as a servo controller with 24 combinations natively
+It could've been tweaked a lot more so there can be around 35000 combinations 
+Sounds crazy right !
+
+-----------------------------------------------
